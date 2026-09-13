@@ -1,10 +1,10 @@
-import connectDB from "./config/db.js";
+import connectDB from "./Config/db.js";
 import express from "express";
 import dotenv from "dotenv";
 import dns from "dns";
 import cors from "cors";
 
-import authRoutes from "./routes/authRoutes.js";
+import authRoutes from "./Routes/authRoutes.js";
 import transactionRoutes from "./Routes/transactionRoutes.js";
 import aiRoutes from "./Routes/aiRoutes.js";
 import budgetRoutes from "./Routes/budgetRoutes.js";
