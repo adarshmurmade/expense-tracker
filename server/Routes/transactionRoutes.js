@@ -5,7 +5,7 @@ import {
   getTransactions,
   updateTransaction,
   deleteTransaction,
-} from "../controllers/transactionController.js";
+} from "../Controllers/transactionController.js";
 
 import authMiddleware from "../middleware/authMiddleware.js";
 
