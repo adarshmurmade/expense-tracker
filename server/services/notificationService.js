@@ -1,6 +1,6 @@
 import Notification from "../Models/Notification.js";
 import Budget from "../Models/Budget.js";
-import Transaction from "../models/Transaction.js";
+import Transaction from "../Models/Transaction.js";
 
 const createNotificationIfNotExists = async ({
   userId,

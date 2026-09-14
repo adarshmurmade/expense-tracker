@@ -1,4 +1,4 @@
-import Transaction from "../models/Transaction.js";
+import Transaction from "../Models/Transaction.js";
 
 // =========================
 // ADD TRANSACTION

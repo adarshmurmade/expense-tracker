@@ -1,4 +1,4 @@
-import Transaction from "../models/Transaction.js";
+import Transaction from "../Models/Transaction.js";
 import {
   generateFinancialInsights,
 } from "../services/aiService.js";
